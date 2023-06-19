@@ -4,6 +4,7 @@ function contratar() {
     let instagram = document.getElementById("instagram").value;
     let email = document.getElementById("email").value;
     let cep = document.getElementById("cep").value;
+    
   
     if (nome.length == 0) {
       alert("Digite seu nome");
