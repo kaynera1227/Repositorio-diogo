@@ -1,6 +1,6 @@
 package banco;
 
-public class Pessoa {
+public class Pessoas {
     
     public String nome;
     public int idade;

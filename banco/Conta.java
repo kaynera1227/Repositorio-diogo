@@ -2,7 +2,7 @@ package banco;
 
 import javax.swing.JOptionPane;
 
-public class Conta extends Pessoa {
+public class Conta extends Pessoas {
 
     public double saque ;
     public double deposito = 0;
